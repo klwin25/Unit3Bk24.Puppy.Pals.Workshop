@@ -3,6 +3,11 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border: thick double #32a1ce;
+}
+
+.App {
+  background-color: #008858;
 }
 
 .logo {
@@ -39,4 +44,13 @@
 
 .read-the-docs {
   color: #888;
+}
+
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/04/73/45/45/360_F_473454553_LnBGhxiICOmaIFGK76fxZjk4tZVDbjXy.jpg");
+  font-style: italic;
+}
+
+hr {
+  border: dashed white;
 }
